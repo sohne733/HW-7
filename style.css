@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: rgb(255, 229, 229);
+    border: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+button:hover{
+    cursor: pointer;
+}
+#pokemon-container{
+    font-family: 'Courier New', Courier, monospace;
+}
